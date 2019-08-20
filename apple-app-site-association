@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "Z64L6G56LA.com.lyn.link",
-            "paths": ["/", "/#/product/*", "/#/download"]
+            "paths": ["/index.html", "/#/product/*", "/#/download"]
         }]
     }
 }
