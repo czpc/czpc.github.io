@@ -1,9 +1,15 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
+        "details": [
+        {
+            "appID": "77D9Y3RB98.com.xiangyang.xhfwy",
+            "paths": ["*"]
+        },
+        {
             "appID": "77D9Y3RB98.com.xiangyang.fwyLawyer",
             "paths": ["*"]
-        }]
+        }
+        ]
     }
 }
